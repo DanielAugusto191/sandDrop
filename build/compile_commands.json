@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pc2/Workspace/raylibteste/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/teste.dir/main.cpp.o -c /home/pc2/Workspace/raylibteste/main.cpp",
+  "file": "/home/pc2/Workspace/raylibteste/main.cpp",
+  "output": "CMakeFiles/teste.dir/main.cpp.o"
+}
+]

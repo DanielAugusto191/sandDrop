@@ -1,0 +1,3 @@
+/home/pc2/Workspace/raylibteste/build/CMakeFiles/teste.dir
+/home/pc2/Workspace/raylibteste/build/CMakeFiles/edit_cache.dir
+/home/pc2/Workspace/raylibteste/build/CMakeFiles/rebuild_cache.dir
